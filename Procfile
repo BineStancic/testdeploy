@@ -1,0 +1,1 @@
+web: gunicorn testDeplot.wsgi --log-file -
